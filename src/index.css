@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #000;
+    color: white;
+}
+.card{
+    background-color: rgb(27, 28, 28);
+    
+}
+.img{
+    max-width: 240px;
+    min-width: 240px;
+}
